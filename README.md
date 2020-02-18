@@ -1,6 +1,6 @@
 # fortune500
 
-Several datasets on the latest Fortune 500 companies. Data from ![Fortune's website](https://fortune.com/fortune500/2019/search/).
+Several datasets of the latest Fortune 500 companies. Data from ![Fortune's website](https://fortune.com/fortune500/2019/search/).
 
 # Datasets
 
