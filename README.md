@@ -20,4 +20,3 @@ Several datasets of the latest Fortune 500 companies. Data from ![Fortune's webs
 =======
 
 - [ ] **fortune500_policy_text**: A folder containing text extracted from the Fortune 500 privacy policy HTMLs or PDFs from **fortune500_policy_htmls** (no boilerplate). Extracted using [extractarticletext.com](https://extractarticletext.com).
->>>>>>> 7151cfd350eb67275936418a1708fb55d05a42ae
