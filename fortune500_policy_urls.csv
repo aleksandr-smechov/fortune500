@@ -1,0 +1,568 @@
+company_name,rank,website,policy_url
+Walmart ,1,http://www.walmart.com,https://corporate.walmart.com/privacy-security/walmart-privacy-policy
+Exxon Mobil ,2,http://www.exxonmobil.com,https://corporate.exxonmobil.com/Global-legal-pages/privacy-policy
+Apple ,3,http://www.apple.com,http://www.apple.com/privacy/
+Berkshire Hathaway ,4,http://www.berkshirehathaway.com,http://www.berkshirehathaway.com/disclaimer.html
+Amazon.com ,5,http://www.amazon.com,https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496&ref_=footer_privacy
+UnitedHealth Group ,6,http://www.unitedhealthgroup.com,http://www.unitedhealthgroup.com/privacy.html
+McKesson ,7,http://www.mckesson.com,http://www.mckesson.com/about-mckesson/privacy-notice-summary/  
+CVS Health ,8,http://www.cvshealth.com,http://www.cvshealth.com/privacy-policy
+AT&T ,9,http://www.att.com,http://about.att.com/sites/privacy_policy
+AmerisourceBergen ,10,http://www.amerisourcebergen.com,http://www.amerisourcebergen.com/global-privacy-statement
+Chevron ,11,http://www.chevron.com,http://www.chevron.com/privacy
+Ford Motor ,12,http://www.corporate.ford.com,https://www.ford.com/help/privacy/
+General Motors ,13,http://www.gm.com,http://www.gm.com/privacy-statement.html
+Costco Wholesale ,14,http://www.costco.com,"https://www.costco.com/privacy-policy.html
+"
+Alphabet ,15,http://www.abc.xyz,"https://www.alphabet.com/en-ww/privacy-policy
+"
+Cardinal Health ,16,http://www.cardinalhealth.com,http://www.cardinalhealth.com/en/support/privacy-policy.html
+Walgreens Boots Alliance ,17,http://www.walgreensbootsalliance.com,http://www.walgreensbootsalliance.com/online-privacy-and-security
+JPMorgan Chase ,18,http://www.jpmorganchase.com,https://www.jpmorgan.com/country/US/en/privacy
+Verizon Communications ,19,http://www.verizon.com,https://www.verizon.com/about/privacy/full-privacy-policy
+Kroger ,20,http://www.thekrogerco.com,https://www.kroger.com/topic/privacy-policy-7
+General Electric ,21,http://www.ge.com,http://www.ge.com/privacy
+Fannie Mae ,22,http://www.fanniemae.com,"https://www.fanniemae.com/portal/privacy-statement.html
+"
+Phillips 66 ,23,http://www.phillips66.com,http://www.phillips66.com/privacy-statement
+Valero Energy ,24,http://www.valero.com,http://www.valero.com/en-us/privacystatement
+Bank of America ,25,http://www.bankofamerica.com,http://www.bankofamerica.com/privacy/overview.go?request_locale=en_us
+Microsoft ,26,http://www.microsoft.com,https://privacy.microsoft.com/en-us
+Home Depot ,27,http://www.homedepot.com,"https://www.homedepot.com/c/privacy_security
+"
+Boeing ,28,http://www.boeing.com,http://www.boeing.com/privacy-and-cookie-policy.page
+Wells Fargo ,29,http://www.wellsfargo.com,http://www.wellsfargo.com/privacy-security/?linkloc=signon
+Citigroup ,30,http://www.citigroup.com,http://www.citigroup.com/citi/privacy.html
+Marathon Petroleum ,31,http://www.marathonpetroleum.com,http://www.marathonpetroleum.com/privacy-policy/
+Comcast ,32,http://www.comcastcorporation.com,https://www.xfinity.com/corporate/privacy
+Anthem ,33,http://www.antheminc.com,https://www.antheminc.com/privacy/index.htm
+Dell Technologies ,34,http://www.delltechnologies.com,https://www.dell.com/learn/us/en/uscorp1/policies-privacy
+DuPont de Nemours ,35,http://www.dupont.com,http://www.dupont.com/privacy.html
+State Farm Insurance ,36,http://www.statefarm.com,https://www.statefarm.com/customer-care/privacy-security/privacy
+Johnson & Johnson ,37,http://www.jnj.com,https://www.jnj.com/corporate/privacy-policy
+IBM ,38,http://www.ibm.com,http://www.ibm.com/privacy/us/en/
+Target ,39,http://www.target.com,http://www.target.com/c/california-residents-privacy-policy/-/n-m2wjt
+Freddie Mac ,40,http://www.freddiemac.com,http://www.freddiemac.com/terms/privacy.html
+United Parcel Service ,41,http://www.ups.com,https://www.ups.com/us/en/help-center/legal-terms-conditions/privacy-notice.page
+Lowe’s ,42,http://www.lowes.com,http://www.lowes.com/l/privacy-and-security-statement.html
+Intel ,43,http://www.intel.com,http://www.intel.com/content/www/us/en/privacy/intel-privacy-notice.html
+MetLife ,44,http://www.metlife.com,https://online.metlife.com/edge/web/public/privacyPolicy.html?view=loggedOut
+Procter & Gamble ,45,http://www.pg.com,https://www.pg.com/privacy/english/privacy_statement.shtml
+United Technologies ,46,http://www.utc.com,http://www.utc.com/en/privacy
+FedEx ,47,http://www.fedex.com,https://www.fedex.com/en-us/trust-center/global-privacy-policy.html
+PepsiCo ,48,http://www.pepsico.com,http://www.pepsico.com/legal/privacy
+Archer Daniels Midland ,49,http://www.adm.com,https://assets.adm.com/Privacy-Notice/ADM_ADM.com_PrivacyPolicy_English_092118.pdf
+Prudential Financial ,50,http://www.prudential.com,https://www.prudential.com/links/privacy-statement
+Centene ,51,http://www.centene.com,http://www.centene.com/privacy-policy.html
+Albertsons ,52,http://www.albertsonscompanies.com,"https://www.albertsonscompanies.com/about-us/our-policies/privacy-policy.html
+"
+Walt Disney ,53,http://www.thewaltdisneycompany.com,https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/
+Sysco ,54,http://www.sysco.com,https://www.sysco.com/Privacy-Policy.html
+HP ,55,http://www.hp.com,https://www8.hp.com/us/en/privacy/privacy.html?jumpid=in_R11928_/us/en/corp/privacy-central/privacy-statements
+Humana ,56,http://www.humana.com,https://www.humana.com/legal/internet-privacy
+Facebook ,57,http://www.facebook.com,http://www.facebook.com/privacy/explanation
+Caterpillar ,58,http://www.caterpillar.com,http://www.caterpillar.com/en/legal-notices/privacy-notice.html
+Energy Transfer ,59,http://www.energytransfer.com,"https://www.energytransfer.com/privacy-policy/
+"
+Lockheed Martin ,60,http://www.lockheedmartin.com,http://www.lockheedmartin.com/en-us/contact/disclaimer.html#privacy
+Pfizer ,61,http://www.pfizer.com,http://www.pfizer.com/privacy
+Goldman Sachs Group ,62,http://www.goldmansachs.com,http://www.goldmansachs.com/privacy-and-cookies/index.html
+Morgan Stanley ,63,http://www.morganstanley.com,https://www.morganstanley.com/disclaimers/us-privacy-policy.html
+Cisco Systems ,64,http://www.cisco.com,http://www.cisco.com//www.cisco.com/c/en/us/about/legal/privacy-full.html
+Cigna ,65,http://www.cigna.com,https://www.cigna.com/assets/docs/privacy-notices-and-forms/final-on-line-with-incentive-language.pdf?WT.z_nav=privacyinformation%3BBody%3BOnline%20and%20Mobile%20Privacy%20Statement
+AIG ,66,http://www.aig.com,http://www.aig.com/privacy-policy
+HCA Healthcare ,67,http://www.hcahealthcare.com,http://www.hcahealthcare.com/legal/index.dot#privacy-policy
+American Airlines Group ,68,http://www.aa.com,https://www.aa.com/i18n/customer-service/support/privacy-policy.jsp
+Delta Air Lines ,69,http://www.delta.com,http://www.delta.com/us/en/legal/privacy-and-security
+Charter Communications ,70,http://www.charter.com,https://www.spectrum.com/policies/your-privacy-rights.html
+New York Life Insurance ,71,http://www.newyorklife.com,https://www.newyorklife.com/about/privacy/nyl-online-privacy-policy
+American Express ,72,http://www.americanexpress.com,https://www.americanexpress.com/us/privacy-center/?inav=footer_privacy_statement
+Nationwide ,73,http://www.nationwide.com,https://www.nationwide.com/personal/privacy-security/pages/privacy
+Best Buy ,74,http://www.bestbuy.com,"https://www.bestbuy.com/site/help-topics/privacy-policy/pcmcat204400050062.c?id=pcmcat204400050062
+"
+Liberty Mutual Insurance Group ,75,http://www.libertymutual.com,https://www.libertymutualgroup.com/general/about-lm/corporate-information/website
+Merck ,76,http://www.merck.com,https://www.msdprivacy.com/us/en/index.html
+Honeywell International ,77,http://www.honeywell.com,http://www.honeywell.com/en-us/privacy-statement
+United Continental Holdings ,78,http://www.united.com,"https://www.united.com/ual/en/us/fly/privacy.html
+"
+TIAA ,79,http://www.tiaa.org,https://policies.google.com/privacy
+Tyson Foods ,80,http://www.tysonfoods.com,http://www.tysonfoods.com/privacy-policy
+Oracle ,81,http://www.oracle.com,https://www.oracle.com/legal/privacy/privacy-policy.html
+Allstate ,82,http://www.allstate.com,https://www.allstate.com/about/privacy-statement-aic.aspx
+World Fuel Services ,83,http://www.wfscorp.com,https://www.wfscorp.com/en/privacy-notice
+Massachusetts Mutual Life Insurance ,84,http://www.massmutual.com,https://www.massmutual.com/legal/privacy-policy
+TJX ,85,http://www.tjx.com,http://www.tjx.com/privacy
+ConocoPhillips ,86,http://www.conocophillips.com,http://www.conocophillips.com/privacy-statement/
+Deere ,87,http://www.johndeere.com,http://www.johndeere.com/en/privacy-and-data/
+Tech Data ,88,http://www.techdata.com,https://tdcontent.techdata.com/content/visitor/abouttd/privacy.aspx
+Enterprise Products Partners ,89,http://www.enterpriseproducts.com,http://www.enterpriseproducts.com/privacy-policy
+Nike ,90,http://www.nike.com,https://agreementservice.svs.nike.com/rest/agreement?agreementType=privacyPolicy&uxId=com.nike.unite&country=US&language=en&requestType=redirect
+Publix Super Markets ,91,http://www.publix.com,https://ww4.publix.com/publix-website-policies
+General Dynamics ,92,http://www.generaldynamics.com,https://www.gd.com/privacy-policy
+Exelon ,93,http://www.exeloncorp.com,https://www.exeloncorp.com/privacy-policy
+Plains GP Holdings ,94,http://www.plainsallamerican.com,http://www.plainsallamerican.com/privacy-policy
+3M ,95,http://www.3m.com,http://www.3m.com/3m/en_us/company-us/privacy-policy/
+AbbVie ,96,http://www.abbvie.com,http://www.abbvie.com/privacy.html
+CHS ,97,http://www.chsinc.com,http://www.chsinc.com/privacy-policy
+Capital One Financial ,98,http://www.capitalone.com,https://www.capitalone.com/privacy/online-privacy-policy
+Progressive ,99,http://www.progressive.com,https://www.progressive.com/privacy/
+Coca-Cola ,100,http://www.coca-colacompany.com,https://us.coca-cola.com/privacy-policy/#privacy
+USAA ,101,http://www.usaa.com,https://www.usaa.com/inet/pages/security_protect_your_personal_information?tab=3
+Hewlett Packard Enterprise ,102,http://www.hpe.com,https://www.hpe.com/us/en/legal/privacy.html
+Abbott Laboratories ,103,http://www.abbott.com,http://www.abbott.com/privacy-policy.html
+Twenty-First Century Fox ,104,http://www.thewaltdisneycompany.com,https://disneyprivacycenter.com/
+Micron Technology ,105,http://www.micron.com,http://www.micron.com/privacy
+Travelers ,106,http://www.travelers.com,http://www.travelers.com/privacy-statements/index.aspx
+Rite Aid ,107,http://www.riteaid.com,https://www.riteaid.com/legal/privacy-policy
+Northrop Grumman ,108,http://www.northropgrumman.com,https://www.northropgrumman.com/who-we-are/privacy-policy/
+Arrow Electronics ,109,http://www.arrow.com,http://www.arrow.com/en/legal/privacy-policy
+Philip Morris International ,110,http://www.pmi.com,https://pmiprivacy.com/en/consumer
+Northwestern Mutual ,111,http://www.northwesternmutual.com,https://www.northwesternmutual.com/online-privacy-statement/
+INTL FCStone ,112,http://www.intlfcstone.com,http://www.intlfcstone.com/terms-of-use/
+PBF Energy ,113,http://www.pbfenergy.com,https://www.pbfenergy.com/privacy-statement/
+Raytheon ,114,http://www.raytheon.com,http://www.raytheon.com/legal/privacy/
+Kraft Heinz ,115,http://www.kraftheinzcompany.com,https://www.kraftheinzcompany.com/newprivacypolicy.html
+Mondelez International ,116,http://www.mondelezinternational.com,http://www.mondelezinternational.com/privacy-policy
+U.S. Bancorp ,117,http://www.usbank.com,https://www.usbank.com/about-us-bank/privacy/security.html
+Macy’s ,118,http://www.macysinc.com,http://www.macysinc.com/privacy-policy
+Dollar General ,119,http://www.dollargeneral.com,http://www.dollargeneral.com/privacy-policy
+Nucor ,120,http://www.nucor.com,http://www.nucor.com/privacy
+Starbucks ,121,http://www.starbucks.com,https://www.starbucks.com/about-us/company-information/online-policies/privacy-policy
+DXC Technology ,122,http://www.dxc.technology,http://www.dxc.technology/privacy
+Eli Lilly ,123,http://www.lilly.com,http://www.lilly.com/privacy
+Thermo Fisher Scientific ,124,http://www.thermofisher.com,https://www.thermofisher.com/us/en/home/global/privacy-policy.html
+US Foods Holding ,125,http://www.usfoods.com,https://www.usfoods.com/content/dam/usf/EC/documents/privacypolicy.html
+Duke Energy ,126,http://www.duke-energy.com,"https://www.duke-energy.com/legal/privacy
+"
+Halliburton ,127,http://www.halliburton.com,https://www.halliburton.com/en-US/about-us/legal/privacy-policy.html?SRC=Footer
+Cummins ,128,http://www.cummins.com,http://www.cummins.com/privacy-and-legal
+Amgen ,129,http://www.amgen.com,http://www.amgen.com/privacy-statement/
+Paccar ,130,http://www.paccar.com,http://www.paccar.com/privacy.aspx
+Southern ,131,http://www.southerncompany.com,http://www.southerncompany.com/privacy-statement.html
+CenturyLink ,132,http://www.centurylink.com,https://www.centurylink.com/aboutus/legal/privacy-policy.html
+International Paper ,133,http://www.internationalpaper.com,http://www.internationalpaper.com/legal-pages/privacy-statement
+Union Pacific ,134,http://www.up.com,http://www.up.com/up/aboutup/corporate_info/privacy/index.htm
+Dollar Tree ,135,http://www.dollartree.com,"https://www.dollartree.com/privacy-policy
+"
+Penske Automotive Group ,136,http://www.penskeautomotive.com,https://www.penskeautomotive.com/CustomPage/Index?keyGenPage=469473
+Qualcomm ,137,http://www.qualcomm.com,http://www.qualcomm.com/site/privacy
+Bristol-Myers Squibb ,138,http://www.bms.com,http://www.bms.com/privacy-policy.html
+Gilead Sciences ,139,http://www.gilead.com,http://www.gilead.com/privacy-statements
+Jabil ,140,http://www.jabil.com,http://www.jabil.com/about-us/the-jabil-code/privacy.html
+ManpowerGroup ,141,http://www.manpowergroup.com,http://www.manpowergroup.com/wcm/connect/manpowergroup/home/privacy-policy
+Southwest Airlines ,142,http://www.southwest.com,http://www.southwest.com/html/about-southwest/terms-and-conditions/privacy-policy-pol.html?clk=gfooter-bottom-privacy
+Aflac ,143,http://www.aflac.com,http://www.aflac.com/about-aflac/privacy-policy.aspx
+Tesla ,144,http://www.tesla.com,https://www.tesla.com/about/legal#privacy-statement
+AutoNation ,145,http://www.autonation.com,http://www.autonation.com/about#/privacypolicy
+CBRE Group ,146,http://www.cbre.com,http://www.cbre.com/about/privacy-policy
+Lear ,147,http://www.lear.com,http://www.lear.com/site/company/privacy.aspx
+Whirlpool ,148,http://www.whirlpoolcorp.com,https://whirlpoolcorp.com/privacy-notice-united-states-and-canada/
+McDonald’s ,149,http://www.aboutmcdonalds.com,"https://corporate.mcdonalds.com/corpmcd/privacy.html
+"
+Broadcom ,150,http://www.broadcom.com,"https://www.broadcom.com/company/legal/privacy-policy
+"
+Marriott International ,151,http://www.marriott.com,http://www.marriott.com/about/privacy.mi
+Western Digital ,152,http://www.wdc.com,"https://www.westerndigital.com/legal/privacy-statement
+"
+Visa ,153,http://www.visa.com,https://usa.visa.com/dam/VCOM/global/support-legal/documents/privacy-notice.pdf
+Lennar ,154,http://www.lennar.com,http://www.lennar.com/privacypolicy
+WellCare Health Plans ,155,http://www.wellcare.com,http://www.wellcare.com/en/corporate/legal
+Kohl’s ,156,http://www.kohls.com,http://www.kohls.com/feature/privacy-policy.jsp
+AECOM ,157,http://www.aecom.com,http://www.aecom.com/privacy-policy/
+Synnex ,158,http://www.synnex.com,"https://www.synnexcorp.com/privacy-policy/
+"
+PNC Financial Services ,159,http://www.pnc.com,https://www.pnc.com/content/dam/pnc-com/pdf/Privacy%20Policy/privacy_notice_english.pdf
+Danaher ,160,http://www.danaher.com,http://www.danaher.com/data-privacy-policy
+Hartford Financial Services ,161,http://www.thehartford.com,https://www.thehartford.com/online-privacy-policy
+Altria Group ,162,http://www.altria.com,http://www.altria.com/privacy
+Bank of New York Mellon ,163,http://www.bnymellon.com,http://www.bnymellon.com/us/en/privacy.jsp
+Fluor ,164,http://www.fluor.com,http://www.fluor.com/privacy-policy
+Avnet ,165,http://www.avnet.com,http://www.avnet.com/wps/portal/apac/about-avnet/data-protection-policy/
+Icahn Enterprises ,166,http://www.ielp.com,"https://www.ielp.com/legal-disclaimer
+"
+Occidental Petroleum ,167,http://www.oxy.com,https://www.oxy.com/Information/Pages/Privacy-Policy.aspx
+Molina Healthcare ,168,http://www.molinahealthcare.com,http://www.molinahealthcare.com/members/common/en-us/pages/terms_privacy.aspx
+Genuine Parts ,169,http://www.genpt.com,None
+Freeport-McMoRan ,170,http://www.fcx.com,"https://www.fcx.com/privacy-policy
+"
+Kimberly-Clark ,171,http://www.kimberly-clark.com,http://www.kimberly-clark.com/privacy
+Tenet Healthcare ,172,http://www.tenethealth.com,http://www.tenethealth.com/privacy
+Synchrony Financial ,173,http://www.synchronyfinancial.com,http://www.synchronyfinancial.com/privacy-policy.html
+CarMax ,174,http://www.carmax.com,"https://www.carmax.com/privacy-policy
+"
+HollyFrontier ,175,http://www.hollyfrontier.com,http://www.hollyfrontier.com/privacy-statement/default.aspx
+Performance Food Group ,176,http://www.pfgc.com,http://www.pfgc.com/about/privacy-policy
+Sherwin-Williams ,177,http://www.sherwin.com,https://privacy.sherwin-williams.com
+Emerson Electric ,178,http://www.emerson.com,http://www.emerson.com/en-us/privacy-notice
+NGL Energy Partners ,179,http://www.nglenergypartners.com,http://www.nglenergypartners.com/privacy-policy
+XPO Logistics ,180,http://www.xpo.com,http://www.xpo.com/privacy-policy/
+EOG Resources ,181,http://www.eogresources.com,"https://www.eogresources.com/terms/
+"
+Applied Materials ,182,http://www.appliedmaterials.com,http://www.appliedmaterials.com/privacy
+PG&E ,183,http://www.pgecorp.com,"https://www.pge.com/en_US/about-pge/company-information/privacy-policy/privacy-policy/privacy-policy.page
+"
+NextEra Energy ,184,http://www.nexteraenergy.com,"http://www.nexteraenergy.com/privacy-policy.html
+"
+C.H. Robinson Worldwide ,185,http://www.chrobinson.com,http://www.chrobinson.com/en-us/privacy-notice/
+Gap ,186,http://www.gapinc.com,https://corporate.gapinc.com/en-us/consumer-privacy-policy
+Lincoln National ,187,http://www.lfg.com,http://www.lfg.com/public/privacy/onlineprivacypolicy
+DaVita ,188,http://www.davita.com,https://www.davita.com/privacy-policy
+Jones Lang LaSalle ,189,http://www.jll.com,https://www.us.jll.com/en/privacy-statement
+WestRock ,190,http://www.westrock.com,http://www.westrock.com/en/privacy-policy
+CDW ,191,http://www.cdw.com,http://www.cdw.com/content/cdw/en/terms-conditions/privacy-policy.html
+American Electric Power ,192,http://www.aep.com,"https://www.aep.com/terms/
+"
+Cognizant Technology Solutions ,193,http://www.cognizant.com,http://www.cognizant.com/privacy-notice
+D.R. Horton ,194,http://www.drhorton.com,https://www.drhorton.com/privacy-policy
+Becton Dickinson ,195,http://www.bd.com,http://www.bd.com/en-us/privacy-policy
+Nordstrom ,196,http://www.nordstrom.com,"https://shop.nordstrom.com/c/nordstrom-privacy?origin=footer&cm_sp=corp-_-corp_legal-_-globalfooternav_yourprivacyrights
+"
+Netflix ,197,http://www.netflix.com,https://help.netflix.com/legal/privacy
+Aramark ,198,http://www.aramark.com,http://www.aramark.com/other/privacy-policy
+Texas Instruments ,199,http://www.ti.com,http://www.ti.com/legal/privacy.html
+General Mills ,200,http://www.generalmills.com,http://www.generalmills.com/en/company/privacy-policies/privacy-policy-us
+Supervalu ,201,http://www.supervalu.com,http://www.supervalu.com/misc/privacy-policy.html
+Colgate-Palmolive ,202,http://www.colgatepalmolive.com,http://www.colgatepalmolive.com/en-us/legal-privacy-policy/privacy-policy
+Goodyear Tire & Rubber ,203,http://www.goodyear.com,https://corporate.goodyear.com/en-US/terms-conditions-and-privacy-policy/online-privacy-policy.html
+PayPal Holdings ,204,http://www.paypal.com,https://www.paypal.com/us/webapps/mpp/ua/privacy-full
+PPG Industries ,205,http://www.ppg.com,http://corporate.ppg.com/legal
+Omnicom Group ,206,http://www.omnicomgroup.com,http://www.omnicomgroup.com/privacy-notice/
+Celgene ,207,http://www.celgene.com,https://www.celgene.com/privacy-policy/general-privacy-policy/
+Jacobs Engineering Group ,208,http://www.jacobs.com,http://www.jacobs.com/policies/privacy-policy
+Ross Stores ,209,http://www.rossstores.com,http://www.rossstores.com/privacy-policy
+Mastercard ,210,http://www.mastercard.com,https://www.mastercard.us/en-us/about-mastercard/what-we-do/privacy.html
+Marsh & McLennan ,211,http://www.mmc.com,http://www.mmc.com/privacy-statement.html
+Land O’Lakes ,212,http://www.landolakesinc.com,http://www.landolakesinc.com/privacy-policy
+Waste Management ,213,http://www.wm.com,http://www.wm.com/us/en/privacy
+Illinois Tool Works ,214,http://www.itw.com,https://www.itw.com/utilities/privacy-statement/
+Ecolab ,215,http://www.ecolab.com,https://www.ecolab.com/privacy-policy
+Booking Holdings ,216,http://www.bookingholdings.com,https://www.bookingholdings.com/privacy-policy
+CBS ,217,http://www.cbscorporation.com,https://www.viacbs.com/privacy-policy
+Parker-Hannifin ,218,http://www.parker.com,"https://www.parker.com/portal/site/PARKER/menuitem.4450f18f18c082cdfd40eae8237ad1ca/?vgnextoid=cb333a5693983610VgnVCM100000e6651dacRCRD
+"
+Principal Financial ,219,http://www.principal.com,http://www.principal.com/privacy-policies
+DTE Energy ,220,http://www.dteenergy.com,https://newlook.dteenergy.com/wps/wcm/connect/dte-web/quicklinks/footer/01+online+privacy+policy
+BlackRock ,221,http://www.blackrock.com,https://www.blackrock.com/corporate/compliance/privacy-policy
+United States Steel ,222,http://www.ussteel.com,https://www.ussteel.com/caprivacy
+Community Health Systems ,223,http://www.chs.net,http://www.chs.net/privacy_statement/
+Kinder Morgan ,224,http://www.kindermorgan.com,"https://www.kindermorgan.com/content/docs/kmc_privacypolicy.pdf
+"
+Qurate Retail ,225,http://www.qurateretail.com,http://www.qurateretail.com/privacy.html
+Loews ,226,http://www.loews.com,"https://loews.com/filestore/code-of-business-conduct-and-ethics.pdf
+"
+Arconic ,227,http://www.arconic.com,http://www.arconic.com/privacy/
+Stanley Black & Decker ,228,http://www.stanleyblackanddecker.com,https://www.stanleyblackanddecker.com/privacy-policy/global-privacy-policy
+Textron ,229,http://www.textron.com,http://www.textron.com/legal/website-privacy-policy
+Las Vegas Sands ,230,http://www.sands.com,http://www.sands.com/privacy-policy.html
+Estee Lauder ,231,http://www.elcompanies.com,http://www.elcompanies.com/en/privacy-policy
+DISH Network ,232,http://www.dish.com,http://www.dish.com/downloads/legal/privacystatement2.pdf
+Stryker ,233,http://www.stryker.com,"https://www.stryker.com/us/en/legal/privacy.html
+"
+Kellogg ,234,http://www.kelloggcompany.com,http://www.kelloggcompany.com/en_us/privacy-policy.html
+Biogen ,235,http://www.biogen.com,http://www.biogen.com/en_us/privacy-policy.html
+Alcoa ,236,http://www.alcoa.com,http://www.alcoa.com/global/en/general/privacy.asp
+Anadarko Petroleum ,237,http://www.anadarko.com,http://www.anadarko.com/information/pages/privacy-policy.aspx
+Dominion Energy ,238,http://www.dominionenergy.com,"https://www.dominionenergy.com/privacy
+"
+ADP ,239,http://www.adp.com,https://www.adp.com/-/media/adp/redesign2018/pdf/data%20privacy/public-global-privacy-policy.ashx?la=en&hash=46B32E1AAE152E9E89C1707F33F637A5C226B485
+salesforce.com ,240,http://www.salesforce.com,https://www.salesforce.com/ap/company/privacy/
+L Brands ,241,http://www.lb.com,http://www.lb.com/communication/privacy-policy
+Henry Schein ,242,http://www.henryschein.com,https://www.henryschein.com/us-en/Privacy.aspx
+Newell Brands ,243,http://www.newellbrands.com,https://privacy.newellbrands.com/index_en.html
+Guardian Life Ins. Co. of America ,244,http://www.guardianlife.com,http://www.guardianlife.com/privacy-policy
+BJ’s Wholesale Club ,245,http://www.bjs.com,http://www.bjs.com/content?template=b&espot_main=about_privacy
+BB&T Corp. ,246,http://www.bbt.com,https://www.bbt.com/privacy-security/policies/consumer-privacy-notice.html
+State Street Corp. ,247,http://www.statestreet.com,https://www.statestreet.com/content/dam/statestreet/documents/Careers/PRIVACYNOTICE_UnitedStates_FINAL.pdf
+Viacom ,248,http://www.viacom.com,https://www.viacbs.com/privacy-policy
+Ameriprise Financial ,249,http://www.ameriprise.com,https://www.ameriprise.com/privacy-security-fraud/internet-privacy-statement/
+Core-Mark Holding ,250,http://www.core-mark.com,https://www.core-mark.com/privacy-policy/
+Reinsurance Group of America ,251,http://www.rgare.com,https://www.rgare.com/privacy-policy
+VF ,252,http://www.vfc.com,http://www.vfc.com/privacy-policy
+Discover Financial Services ,253,http://www.discover.com,https://www.discover.com/privacy-statement/about-the-information.html
+Global Partners ,254,http://www.globalp.com,https://www.globalp.com/privacy-policy/
+Edison International ,255,http://www.edisoninvestor.com,"https://www.edison.com/home/privacy-notice.html
+"
+Oneok ,256,http://www.oneok.com,http://www.oneok.com/legal-and-privacy
+Murphy USA ,257,http://www.murphyusa.com,http://www.murphyusa.com/about-us/privacy-policy/
+Bed Bath & Beyond ,258,http://www.bedbathandbeyond.com,https://www.bedbathandbeyond.com/store/static/PrivacyPolicy
+Consolidated Edison ,259,http://www.conedison.com,"https://www.coned.com/en/conedison-privacy-statement
+"
+CSX ,260,http://www.csx.com,http://www.csx.com/index.cfm/about-the-site/privacy
+J.C. Penney ,261,http://www.jcpenney.com,https://www.jcpenney.com/m/privacy-notice?pageid=pg4003700012&isfooter=true&title=privacy%20notice
+LKQ ,262,http://www.lkqcorp.com,http://www.lkqcorp.com/privacy
+FirstEnergy ,263,http://www.firstenergycorp.com,http://www.firstenergycorp.com/corporate/privacy_legal_statement.html
+Steel Dynamics ,264,http://www.steeldynamics.com,"https://ir.steeldynamics.com/profiles/main/disclaimer1.asp?bzid=2197
+"
+Lithia Motors ,265,http://www.lithiainvestorrelations.com,"https://www.lithia.com/lithia-privacy.htm
+"
+MGM Resorts International ,266,http://www.mgmresorts.com,http://www.mgmresorts.com/en/privacy-policy.html
+Tenneco ,267,http://www.tenneco.com,http://www.tenneco.com/privacy_policy/
+Nvidia ,268,http://www.nvidia.com,https://www.nvidia.com/en-us/about-nvidia/privacy-policy/
+Sempra Energy ,269,http://www.sempra.com,http://www.sempra.com/privacy
+Farmers Insurance Exchange ,270,http://www.farmers.com,https://www.farmers.com/privacy-statement/
+Ball ,271,http://www.ball.com,https://www.ball.com/Ball/media/Ball/Global/Privacy%20Statement%20Docs/Privacy-Policy-General.pdf
+Group 1 Automotive ,272,http://www.group1auto.com,http://www.group1auto.com/privacy.html
+Unum Group ,273,http://www.unum.com,https://www.unum.com/privacy/internet-privacy-notice
+Xcel Energy ,274,http://www.xcelenergy.com,https://www.xcelenergy.com/staticfiles/xe/Admin/Xcel%20Online%20Privacy%20Policy.pdf
+Reliance Steel & Aluminum ,275,http://www.rsac.com,https://www.rsac.com/index.php/page/view/privacy
+Huntsman ,276,http://www.huntsman.com,http://www.huntsman.com/portal/page/portal/3da47ca218060fc4e053d96bebcd44ad
+Norfolk Southern ,277,http://www.norfolksouthern.com,http://www.norfolksouthern.com/content/nscorp/en/privacy.html
+Laboratory Corp. of America ,278,http://www.labcorp.com,http://www.labcorp.com/hipaa-privacy/web-privacy-policy
+Corning ,279,http://www.corning.com,"https://www.corning.com/worldwide/en/privacy-policy.html
+"
+Expedia Group ,280,http://www.expediagroup.com,https://www.expediagroup.com/privacy-policy/
+AutoZone ,281,http://www.autozone.com,"https://www.autozone.com/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=privacyPolicy&pageCategory=privacyPolicy
+"
+W.W. Grainger ,282,http://www.grainger.com,http://www.grainger.com/content/privacy-policy
+Quanta Services ,283,http://www.quantaservices.com,https://www.quantaservices.com/privacy-policy/
+Crown Holdings ,284,http://www.crowncork.com,http://www.crowncork.com/privacy-policy
+Office Depot ,285,http://www.officedepot.com,"https://www.officedepot.com/cm/help/privacy-statement
+"
+Baxter International ,286,http://www.baxter.com,http://www.baxter.com/policies-positions/global-privacy-policy
+Lam Research ,287,http://www.lamresearch.com,https://www.lamresearch.com/privacy/
+Entergy ,288,http://www.entergy.com,http://www.entergy.com/privacy-policy/
+Charles Schwab ,289,http://www.aboutschwab.com,https://www.schwab.com/public/schwab/nn/legal_compliance/privacy/online_privacy
+L3 Technologies ,290,http://www.l3t.com,https://www.l3t.com/privacy-policy
+NRG Energy ,291,http://www.nrg.com,https://www.nrg.com/legal/privacy-rights-and-requests/privacy-policy.html
+Live Nation Entertainment ,292,http://www.livenationentertainment.com,https://concerts.livenation.com/h/privacy.html
+Universal Health Services ,293,http://www.uhsinc.com,https://www.uhsinc.com/privacy/
+Molson Coors Brewing ,294,http://www.molsoncoors.com,http://www.molsoncoors.com/privacy-policy
+eBay ,295,http://www.ebay.com,https://pages.ebay.com/help/policies/privacy-policy.html
+AES ,296,http://www.aes.com,"https://aes-corp.com/privacy/
+"
+Devon Energy ,297,http://www.devonenergy.com,"https://www.devonenergy.com/documents/sustainability/governance/privacy-policy-11-4-15.pdf
+"
+Pacific Life ,298,http://www.pacificlife.com,https://www.pacificlife.com/home/privacy-and-other-policies/online-privacy-policy.html
+CenterPoint Energy ,299,http://www.centerpointenergy.com,https://www.centerpointenergy.com/en-us/corporate/legal/privacy-policy
+Discovery ,300,http://www.discovery.com,https://corporate.discovery.com/privacy-policy/
+BorgWarner ,301,http://www.borgwarner.com,https://www.borgwarner.com/legal/website-privacy-policy
+Targa Resources ,302,http://www.targaresources.com,"None
+"
+Ally Financial ,303,http://www.ally.com,https://www.ally.com/privacy/
+SunTrust Banks ,304,http://www.suntrust.com,"https://www.suntrust.com/privacy
+"
+IQVIA Holdings ,305,http://www.iqvia.com,https://www.iqvia.com/about-us/privacy/online-privacy-policy
+American Family Insurance Group ,306,http://www.amfam.com,http://www.amfam.com/privacy-security
+Delek US Holdings ,307,http://www.delekus.com,https://www.delekus.com/privacy-policy-2/
+Navistar International ,308,http://www.navistar.com,http://www.navistar.com/navistar/privacypolicy
+Chesapeake Energy ,309,http://www.chk.com,http://www.chk.com/privacy
+United Natural Foods ,310,http://www.unfi.com,https://www.unfi.com/privacy
+Leidos Holdings ,311,http://www.leidos.com,http://www.leidos.com/privacy
+PulteGroup ,312,http://www.pultegroupinc.com,https://www.pulte.com/privacy-policy
+Eastman Chemical ,313,http://www.eastman.com,https://www.eastman.com/privacy/Documents/Fair-Processing-English.pdf
+Republic Services ,314,http://www.republicservices.com,"https://www.republicservices.com/cms/documents/RepublicServicesWebsitePrivacyPolicy_Jan12020.pdf
+"
+Mohawk Industries ,315,http://www.mohawkind.com,http://www.mohawkind.com/privacy-policy.php
+Sonic Automotive ,316,http://www.sonicautomotive.com,http://www.sonicautomotive.com/privacy.htm
+Owens & Minor ,317,http://www.owens-minor.com,http://www.owens-minor.com/globalassets/docs/privacy-for-web-statement_omi1-2019.pdf
+Xerox ,318,http://www.xerox.com,https://www.xerox.com/en-us/about/privacy-policy
+Boston Scientific ,319,http://www.bostonscientific.com,https://www.bostonscientific.com/en-US/privacy-policy.html
+DCP Midstream ,320,http://www.dcpmidstream.com,"https://www.dcpmidstream.com/privacy-policy
+"
+Autoliv ,321,http://www.autoliv.com,http://www.autoliv.com/site-services/privacy-policy
+Interpublic Group ,322,http://www.interpublic.com,https://www.interpublic.com/privacy-policy/
+Public Service Enterprise Group ,323,http://www.pseg.com,"https://corporate.pseg.com/websitetermsandconditions
+"
+PVH ,324,http://www.pvh.com,http://www.pvh.com/privacy-policy
+Mosaic ,325,http://www.mosaicco.com,http://www.mosaicco.com/privacy_policy.htm
+Advance Auto Parts ,326,http://www.advanceautoparts.com,"https://shop.advanceautoparts.com/o/privacy-notice
+"
+Altice USA ,327,http://www.alticeusa.com,"https://www.alticeusa.com/terms-use
+"
+Hormel Foods ,328,http://www.hormelfoods.com,https://www.hormelfoods.com/privacy-policy/
+O’Reilly Automotive ,329,http://www.oreillyauto.com,"https://www.oreillyauto.com/legal-policies#privacy-policy
+"
+Calpine ,330,http://www.calpine.com,http://www.calpine.com/privacy
+Hertz Global Holdings ,331,http://www.hertz.com,https://www.hertz.com/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp
+First Data ,332,http://www.firstdata.com,"https://www.firstdata.com/en_us/privacy.html
+"
+Pioneer Natural Resources ,333,http://www.pxd.com,"https://www.pxd.com/legal/privacy-gdpr
+"
+Coty ,334,http://www.coty.com,http://www.coty.com/terms-use
+AGCO ,335,http://www.agcocorp.com,http://www.agcocorp.com/content/dam/agcocorp/Privacy/AGCO%20Enterpsie%20(and%20NA)%20Privacy%20Policy%20(NA)%2012-18-2019.pdf
+Mutual of Omaha Insurance ,336,http://www.mutualofomaha.com,http://www.mutualofomaha.com/legal-services
+Vistra Energy ,337,http://www.vistraenergy.com,"https://www.vistraenergy.com/privacy-policy/
+"
+Avis Budget Group ,338,http://www.avisbudgetgroup.com,http://www.avisbudgetgroup.com/privacy-notice/
+Adobe ,339,http://www.adobe.com,"https://www.adobe.com/privacy/policy.html
+"
+Peter Kiewit Sons’ ,340,http://www.kiewit.com,http://www.kiewit.com/info/privacy-statement/
+News Corp. ,341,http://www.newscorp.com,https://newscorp.com/privacy-policy/
+Brighthouse Financial ,342,http://www.brighthousefinancial.com,http://www.brighthousefinancial.com/privacy-policy/
+Voya Financial ,343,http://www.voya.com,http://www.voya.com/privacy-notice
+Air Products & Chemicals ,344,http://www.airproducts.com,http://www.airproducts.com/privacy-notice.aspx
+Hilton Worldwide Holdings ,345,http://www.hilton.com,https://hiltonhonors3.hilton.com/en/policy/global-privacy-statement/index.html
+GameStop ,346,http://www.gamestop.com,https://www.gamestop.com/privacypolicy.html
+Veritiv ,347,http://www.veritivcorp.com,http://www.veritivcorp.com/privacy-policy
+Williams ,348,http://www.williams.com,https://www.williams.com/privacy-policy/
+Campbell Soup ,349,http://www.campbellsoupcompany.com,https://www.campbellsoupcompany.com/privacy-policy/
+Rockwell Collins ,350,http://www.collinsaerospace.com,http://www.collinsaerospace.com/privacy-policy
+Thrivent Financial for Lutherans ,351,http://www.thrivent.com,https://www.thrivent.com/privacy-and-security/internet-privacy-policy.html
+Westlake Chemical ,352,http://www.westlake.com,http://www.westlake.com/privacy-policy
+Univar ,353,http://www.univarsolutions.com,https://www.univarsolutions.com/privacy-policy/
+J.B. Hunt Transport Services ,354,http://www.jbhunt.com,http://www.jbhunt.com/privacy/
+Frontier Communications ,355,http://www.frontier.com,http://www.frontier.com/~/media/corporate/policies/privacy-policy.ashx
+Jones Financial (Edward Jones) ,356,http://www.edwardjones.com,https://www.edwardjones.com/privacy/online-privacy-policy.html
+National Oilwell Varco ,357,http://www.nov.com,https://www.nov.com:443/privacy-policy
+Eversource Energy ,358,http://www.eversource.com,"https://www.eversource.com/content/general/about/legal-statements
+"
+Dick’s Sporting Goods ,359,http://www.dickssportinggoods.com,http://www.dickssportinggoods.com/s/privacy-policy
+Genworth Financial ,360,http://www.genworth.com,https://www.genworth.com/online-privacy-policy.html
+Fidelity National Information Services ,361,http://www.fisglobal.com,https://www.fisglobal.com/-/media/fisglobal/files/policies/privacy/online-privacy-notice/english.pdf
+Yum China Holdings ,362,http://ir.yumchina.com,http://www.yumchina.com/statement
+Ryder System ,363,http://www.ryder.com,http://www.ryder.com/privacy-policy
+Anixter International ,364,http://www.anixter.com,http://www.anixter.com/en_us/privacy-policy.html
+Caesars Entertainment ,365,http://www.caesars.com,https://www.caesars.com/corporate/corporate-social-responsibility/play/privacy
+Masco ,366,http://www.masco.com,http://masco.com/privacy-policy/
+Thor Industries ,367,http://www.thorindustries.com,http://www.thorindustries.com/privacy-policy
+Alaska Air Group ,368,http://www.alaskaair.com,https://www.alaskaair.com/content/legal/privacy-policy?lid=footer:privacypolicy
+Amphenol ,369,http://www.amphenol.com,http://www.amphenol.com/privacy-policy
+WESCO International ,370,http://www.wesco.com,http://www.wesco.com/privacy-policy/
+Huntington Ingalls Industries ,371,http://www.huntingtoningalls.com,http://www.huntingtoningalls.com/disclaimer-privacy-policy/
+Jefferies Financial Group ,372,http://www.jefferies.com,http://www.jefferies.com/cmsfiles/jefferies.com/files/policies/jefferies-website-privacy-notice.pdf
+Dana ,373,http://www.dana.com,http://www.dana.com/privacy-notice/
+Expeditors Intl. of Washington ,374,http://www.expeditors.com,https://web.expeditors.com/legal/
+EMCOR Group ,375,http://www.emcorgroup.com,https://www.emcorgroup.com/privacy-policy
+Darden Restaurants ,376,http://www.darden.com,"https://www.darden.com/privacy-notice
+"
+SpartanNash ,377,http://www.spartannash.com,http://www.spartannash.com/privacy
+Assurant ,378,http://www.assurant.com,"https://www.assurant.com/privacypolicy
+"
+United Rentals ,379,http://www.unitedrentals.com,http://www.unitedrentals.com/included-content/legal/privacy
+Liberty Media ,380,http://www.libertymedia.com,http://www.libertymedia.com/privacy.html
+Erie Insurance Group ,381,http://www.erieinsurance.com,https://www.erieinsurance.com/privacy-notice
+Auto-Owners Insurance ,382,http://www.auto-owners.com,"https://www.auto-owners.com/privacy
+"
+Cheniere Energy ,383,http://www.cheniere.com,http://www.cheniere.com/privacy-policy/
+Fifth Third Bancorp ,384,http://www.53.com,http://www.53.com/content/fifth-third/en/privacy-security.html
+Foot Locker ,385,http://www.footlocker-inc.com,http://www.footlocker-inc.com/content/flinc-aem-site/en/privacy-statement.html
+Conagra Brands ,386,http://www.conagrabrands.com,http://www.conagrabrands.com/privacy-policy
+Zimmer Biomet Holdings ,387,http://www.zimmerbiomet.com,http://www.zimmerbiomet.com/privacy-policy.html
+Tractor Supply ,388,http://www.tractorsupply.com,http://www.tractorsupply.com/policies-information_customer-solutions_tsc-privacy-policy
+Berry Global Group ,389,http://www.berryglobal.com,http://www.berryglobal.com/privacy
+Alliance Data Systems ,390,http://www.alliancedata.com,https://www.alliancedata.com/privacy-policy/default.aspx
+Hershey ,391,http://www.thehersheycompany.com,http://www.thehersheycompany.com/en_us/home/privacy-policy.html
+PPL ,392,http://www.pplweb.com,https://www.pplweb.com/privacy-policy/
+Dean Foods ,393,http://www.deanfoods.com,http://www.deanfoods.com/privacy-policy/
+Builders FirstSource ,394,http://www.bldr.com,"https://www.bldr.com/bfs-terms
+"
+Oshkosh ,395,http://www.oshkoshcorporation.com,http://www.oshkoshcorporation.com/en/privacy-policy
+EnLink Midstream ,396,http://www.enlink.com,http://www.enlink.com/privacy-policy/
+W.R. Berkley ,397,http://www.wrberkley.com,http://www.wrberkley.com/privacy
+WEC Energy Group ,398,http://www.wecenergygroup.com,http://www.wecenergygroup.com/home/privacy-policy.htm
+JetBlue Airways ,399,http://www.jetblue.com,"https://www.jetblue.com/legal/privacy
+"
+UGI ,400,http://www.ugicorp.com,http://www.ugicorp.com/privacy-policy/default.aspx
+A-Mark Precious Metals ,401,http://www.amark.com,http://www.amark.com/privacy
+Fidelity National Financial ,402,http://www.fnf.com,https://www.fnf.com/uploads/0/fckupload/file/privacy.pdf
+Constellation Brands ,403,http://www.cbrands.com,https://www.cbrands.com/privacy-policy
+Quest Diagnostics ,404,http://www.questdiagnostics.com,http://www.questdiagnostics.com/home/privacy/privacy-notice/
+Activision Blizzard ,405,http://www.activisionblizzard.com,http://www.activisionblizzard.com/legal/privacy-policy
+Weyerhaeuser ,406,http://www.weyerhaeuser.com,https://www.weyerhaeuser.com/privacy/privacy-policy/
+Raymond James Financial ,407,http://www.raymondjames.com,https://policies.google.com/privacy
+Casey’s General Stores ,408,http://www.caseys.com,http://www.caseys.com/privacy-policy
+Keurig Dr Pepper ,409,http://www.keurigdrpepper.com,https://www.keurig.com/content/privacy-policy?showcontentonly=1
+American Tower ,410,http://www.americantower.com,http://www.americantower.com/privacy/index.html
+Apache ,411,http://www.apachecorp.com,http://www.apachecorp.com/Legal/Privacy_policy/United_States.aspx
+Dover ,412,http://www.dovercorporation.com,http://www.dovercorporation.com/privacy-policy
+KeyCorp ,413,http://www.key.com,http://www.key.com/about/misc/online-privacy-statement.jsp
+J.M. Smucker ,414,http://www.jmsmucker.com,http://www.jmsmucker.com/privacy-policy
+Citizens Financial Group ,415,http://www.citizensbank.com,"https://www.citizensbank.com/account-safeguards/privacy.aspx
+"
+Motorola Solutions ,416,http://www.motorolasolutions.com,http://www.motorolasolutions.com/en_xp/about/privacy-policy.html
+Magellan Health ,417,http://www.magellanhealth.com,"https://www.magellanhealth.com/privacy-policy/
+"
+American Axle & Manufacturing ,418,http://www.aam.com,http://www.adroll.com/about/privacy
+Newmont Goldcorp ,419,http://www.newmontgoldcorp.com,http://www.newmontgoldcorp.com/privacy-policy/
+Spirit AeroSystems Holdings ,420,http://www.spiritaero.com,https://www.spiritaero.com/privacy-policy
+Western & Southern Financial Group ,421,http://www.westernsouthern.com,https://www.westernsouthern.com/privacy-policy
+Fortive ,422,http://www.fortive.com,https://fortive.com/sites/default/files/inline-files/fortive%20corp%20ccpa%20public%20facing%20privacy%20notice%20%2820191218bis%29.pdf
+Graybar Electric ,423,http://www.graybar.com,"https://www.graybar.com/store/en/gb/cm/company/legal/privacy-policy
+"
+NVR ,424,http://www.nvrinc.com,http://www.nvrinc.com/privacy-policy
+Avery Dennison ,425,http://www.averydennison.com,http://www.averydennison.com/en/home/legal-and-privacy-notices.html
+Celanese ,426,http://www.celanese.com,http://www.celanese.com/privacy-policy.aspx
+American Financial Group ,427,http://www.afginc.com,https://www.greatamericaninsurancegroup.com/contact/privacy
+Toll Brothers ,428,http://www.tollbrothers.com,http://www.tollbrothers.com/privacy
+Sanmina ,429,http://www.sanmina.com,https://www.sanmina.com/company-profile/privacy-policy/
+Insight Enterprises ,430,http://www.insight.com,https://www.insight.com/en_US/help/privacy-policy.html
+Owens Corning ,431,http://www.owenscorning.com,http://www.owenscorning.com/privacy-policy
+Packaging Corp. of America ,432,http://www.packagingcorp.com,https://www.packagingcorp.com/privacy-policy
+TravelCenters of America ,433,http://www.ta-petro.com,http://www.ta-petro.com/privacy-policy/
+Olin ,434,http://www.olin.com,https://www.olin.com/privacy/
+Arthur J. Gallagher ,435,http://www.ajg.com,https://www.ajg.com/us/privacy-policy/
+MasTec ,436,http://www.mastec.com,http://www.mastec.com/privacy/
+Alleghany ,437,http://www.alleghany.com,https://www.alleghany.com/privacy-policy/default.aspx
+Owens-Illinois ,438,http://www.o-i.com,"https://www.o-i.com/legal/privacy/
+"
+Asbury Automotive Group ,439,http://www.asburyauto.com,"https://asburyauto.jobs.net/en-us/privacy-policy
+"
+CMS Energy ,440,http://www.cmsenergy.com,https://www.cmsenergy.com/privacy-statement/default.aspx
+Markel ,441,http://www.markelcorp.com,http://www.markelcorp.com/privacy-policy
+Blackstone Group ,442,http://www.blackstone.com,http://www.blackstone.com/privacy
+AK Steel Holding ,443,http://www.aksteel.com,http://www.aksteel.com/privacy-policy
+Hanesbrands ,444,http://www.hanes.com,https://www.hanes.com/shop/hanes/PrivacySecurity
+R.R. Donnelley & Sons ,445,http://www.rrd.com,http://www.rrd.com/privacy-policy
+Wayfair ,446,http://www.wayfair.com,https://www.wayfair.com//customerservice/general_info.php#privacy
+Regions Financial ,447,http://www.regions.com,https://www.regions.com/about-regions/privacy-security/online-privacy-notice
+Wynn Resorts ,448,http://www.wynnresorts.com,https://www.wynnlasvegas.com/privacy-policy
+Ulta Beauty ,449,http://www.ulta.com,https://www.ulta.com/ulta/common/privacyPolicy.jsp
+Regeneron Pharmaceuticals ,450,http://www.regeneron.com,http://www.regeneron.com/privacy-policy
+Burlington Stores ,451,http://www.burlingtoninvestors.com,https://www.burlington.com/others/privacypolicy.aspx
+Rockwell Automation ,452,http://www.rockwellautomation.com,https://www.rockwellautomation.com/en_NA/detail.page?pagetitle=privacy-and-cookies-policy&content_type=legal&docid=2a08b7b7fdd23bc2f17895f25bd46657
+Northern Trust ,453,http://www.northerntrust.com,https://cdn.northerntrust.com/pws/nt/documents/legal/us-privacy-notice.pdf
+Chemours ,454,http://www.chemours.com,https://www.chemours.com/en/-/media/files/corporate/privacy-statement-en-us.pdf
+Seaboard ,455,http://www.seaboardcorp.com,"https://seaboardfoods.com/pages/privacy-policy.aspx
+"
+Marathon Oil ,456,http://www.marathonoil.com,http://www.marathonoil.com/privacy/
+Ascena Retail Group ,457,http://www.ascenaretail.com,None 
+Dillard’s ,458,http://www.dillards.com,http://www.dillards.com/privacy
+Cintas ,459,http://www.cintas.com,"https://www.cintas.com/privacy/general-privacy/
+"
+Advanced Micro Devices ,460,http://www.amd.com,http://www.amd.com/en/corporate/privacy
+Hess ,461,http://www.hess.com,http://www.hess.com/utility-pages/privacy-policy
+M&T Bank Corp. ,462,http://www.mtb.com,http://www.mtb.com/help-center/policies/privacy-policy
+ABM Industries ,463,http://www.abm.com,https://www.abm.com/privacy-policy/
+Beacon Roofing Supply ,464,http://www.becn.com,http://www.becn.com/privacy-policy-and-cookie-notice
+NCR ,465,http://www.ncr.com,https://www.ncr.com/privacy
+iHeartMedia ,466,http://www.iheartmedia.com,http://www.iheartmedia.com/privacy-statement
+Franklin Resources ,467,http://www.franklinresources.com,http://www.franklinresources.com/resources/help-legal/privacy
+Ameren ,468,http://www.ameren.com,"https://www.ameren.com/privacy#956900d9-82a7-4996-a751-846d476b5af6
+"
+Intercontinental Exchange ,469,http://www.theice.com,https://www.intercontinentalexchange.com/privacy-policy
+S&P Global ,470,http://www.spglobal.com,https://www.spglobal.com/corporate-privacy-policy
+Post Holdings ,471,http://www.postholdings.com,http://www.postholdings.com/content/privacy-policy
+Analog Devices ,472,http://www.analog.com,https://www.analog.com/en/about-adi/landing-pages/001/privacy_security_statement.html
+Ralph Lauren ,473,http://www.ralphlauren.com,http://www.ralphlauren.com/customerservice?cid=cs-privacy-notice
+L3Harris Technologies ,474,http://www.harris.com,http://www.harris.com/privacy-policy
+Booz Allen Hamilton ,475,http://www.boozallen.com,https://www.boozallen.com/tools/footer-navigation/privacy-policy.html
+Polaris Industries ,476,http://www.polaris.com,http://www.polaris.com/en-us/privacy/
+Clorox ,477,http://www.thecloroxcompany.com,https://www.thecloroxcompany.com/privacy/
+Realogy Holdings ,478,http://www.realogy.com,http://www.realogy.com/links/privacy-statement
+HD Supply Holdings ,479,http://www.hdsupply.com,"https://hdsupply.com/privacy-compliance/
+"
+Graphic Packaging Holding ,480,http://www.graphicpkg.com,https://www.graphicpkg.com/privacy-policy/
+Old Republic International ,481,http://www.oldrepublic.com,"https://www.oldrepublicinsurancegroup.com/privacy-policy
+"
+Intuit ,482,http://www.intuit.com,https://www.intuit.com/privacy/statement/
+NetApp ,483,http://www.netapp.com,https://www.netapp.com/us/legal/privacypolicy/index.aspx
+Tapestry ,484,http://www.tapestry.com,https://www.tapestry.com/privacy-statement
+ON Semiconductor ,485,http://www.onsemi.com,https://www.onsemi.com/PowerSolutions/content.do?id=1109
+Ingredion ,486,http://www.ingredion.com,"https://www.ingredion.us/legal/privacy.html
+"
+Zoetis ,487,http://www.zoetis.com,http://www.zoetis.com/privacy-policy.aspx
+Fiserv ,488,http://www.fiserv.com,http://www.fiserv.com/en/about-fiserv/privacy-notice.html
+TreeHouse Foods ,489,http://www.treehousefoods.com,https://www.treehousefoods.com/privacy-policy/default.aspx
+Robert Half International ,490,http://www.roberthalf.com,https://www.roberthalf.com/privacy-policy
+First American Financial ,491,http://www.firstam.com,"https://www.firstam.com/privacy-policy/index.html
+"
+Harley-Davidson ,492,http://www.harley-davidson.com,"https://www.harley-davidson.com/us/en/footer/utility/privacy-policy.html
+"
+Windstream Holdings ,493,http://www.windstream.com,http://www.windstream.com/about/legal/privacy-policy
+Yum Brands ,494,http://www.yum.com,https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy
+Williams-Sonoma ,495,http://www.williams-sonomainc.com,http://www.williams-sonomainc.com/privacy/
+Simon Property Group ,496,http://www.simon.com,https://www.simon.com/legal/privacy
+Navient ,497,http://www.navient.com,https://www.navient.com/Navient-Online-Consumer-Information-Privacy-Policy
+Western Union ,498,http://www.westernunion.com,http://www.westernunion.com/vn/en/legal/privacy-statement.html
+Peabody Energy ,499,http://www.peabodyenergy.com,http://www.peabodyenergy.com/privacy
+Levi Strauss ,500,http://www.levistrauss.com,https://www.levi.com/us/en_us/cms/privacy_policy
